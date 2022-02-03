@@ -1,4 +1,4 @@
-for i in range(100):
+for i in range(101):
     if not i % 2:
         print('echo', i)
 print()
